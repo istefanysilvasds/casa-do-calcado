@@ -1,0 +1,42 @@
+header{
+
+    background-color: black;
+    display: flex;
+    align-items: center;
+    height: 100px;
+    justify-content: space-between;
+    text-align: center;
+    
+}
+
+input{
+
+    border: none;
+    width: 600px;
+    margin: 0;
+}
+
+button{
+
+    border: none;
+    margin: 0;
+}
+
+form{
+
+    border: 2px black solid;
+    display: inline-block;
+    margin: auto;
+}
+
+.dropdown{
+
+    display: inline;
+    
+}
+
+figure{
+
+    position: absolute;
+    right: 20px;
+}
