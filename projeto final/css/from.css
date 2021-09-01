@@ -1,0 +1,64 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Sans JP', sans-serif;
+    margin: auto;
+    
+}
+    
+
+
+h2{
+
+    text-align: center;
+    margin-top: 40%;
+    
+    
+}
+
+form{
+
+    height: 400px;
+    width: 500px;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.3)
+    
+    
+}
+
+input{
+  
+    
+    text-align: center;
+    margin-top: 50px;
+
+}
+ 
+button{
+
+  height: 40px;
+  width: 50px;
+  background-color:white ;
+  border: none;
+  color: black;
+
+}
+
+.caixa{
+  
+  width: 300px;
+   
+}
+
+body{
+
+    background-image: url(../img/logo\ 3.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+    
+.voltarapagina{
+
+    color: black;
+}
